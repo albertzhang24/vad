@@ -1,2 +1,0 @@
-# vad
-voice activity detection
